@@ -12,3 +12,6 @@ charts/**/charts/
 
 # Compose filesystem
 /docker
+# Secrets - never commit env files
+.env
+debian/.env
